@@ -1,4 +1,4 @@
 # sql-challenge
-Creating databasediagrams 
+Creating database diagrams 
 &
 Using Postgresql to analyse Data
